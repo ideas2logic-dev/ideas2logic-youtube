@@ -29,5 +29,14 @@ ideas2logic-content/
 This repository houses all content for the **Ideas2Logic** YouTube channel, including:
 
 Organized for growth, reusability, and collaboration.
+```
 
-> Follow on YouTube: https://youtube.com/@ideas2logic
+---
+## 📢 Connect With Us
+
+- 🌐 Website: [ideas2logic.com](https://ideas2logic.com)  
+- 📺 YouTube: [@ideas2logic](https://youtube.com/@ideas2logic)  
+- 💼 LinkedIn: [Ideas2Logic](https://linkedin.com/company/ideas2logic)  
+- 🧵 Twitter/X: [@ideas2logic](https://twitter.com/ideas2logic)
+
+---
