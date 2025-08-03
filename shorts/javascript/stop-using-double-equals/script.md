@@ -75,8 +75,5 @@ Always use `===` for cleaner, bug-free code 🧠✅
 📹 Related Video: https://www.youtube.com/playlist?list=PLwCGxL_0i0FaUmGe9rxYZsnuMgnAofGTq
 
 JavaScript • Equality Operators • Strict Comparison • Code Quality • Best Practices • WTFJS
-#javascript #codetips #jsdeveloper #webdev #frontend #programminghumor #shorts
 
-#javascript #js #webdevelopment #frontenddeveloper #softwareengineer 
-#programmingtips #learnjavascript #codewithme #webdev #developerlife 
-#codetips #codingshorts #devcommunity #debugging #shorts #reels #typescript
+codetips,jsdeveloper,webdev,frontend,programminghumor,shorts,javascript,js,webdevelopment,frontenddeveloper,softwareengineer,programmingtips,learnjavascript,codewithme,webdev,developerlife,codetips,codingshorts,devcommunity,debugging,shorts,reels,typescript
